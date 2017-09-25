@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraAplicacion</string>
+    <string name="obtener_fecha_y_hora">Dar fecha y hora</string>
+    <string name="fecha_y_hora">Fecha y hora</string>
+</resources>
